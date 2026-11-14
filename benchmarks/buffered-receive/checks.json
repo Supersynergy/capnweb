@@ -1,0 +1,56 @@
+{
+  "base": "098dca7c9f3c9fba9dfb29da92dbde2f6adac199",
+  "patch": "fd061c2f51db3d0b09aafc8501c25810a364f3c2",
+  "runtimeHash": "97d475f85852f0f58d31958efab24d4df2a0fcd5ebf793d4f59abb2220d6570d",
+  "checks": [
+    {
+      "id": "node26",
+      "passed": true,
+      "count": 442
+    },
+    {
+      "id": "node24",
+      "passed": true,
+      "count": 442
+    },
+    {
+      "id": "workerd",
+      "passed": true,
+      "count": 245
+    },
+    {
+      "id": "browsers",
+      "passed": true,
+      "count": 904
+    },
+    {
+      "id": "bun",
+      "passed": true,
+      "count": 16
+    },
+    {
+      "id": "types",
+      "passed": true,
+      "count": 0
+    },
+    {
+      "id": "markdown",
+      "passed": true,
+      "count": 0
+    },
+    {
+      "id": "docs-build",
+      "passed": true,
+      "count": 0
+    },
+    {
+      "id": "docs-check",
+      "passed": true,
+      "count": 0
+    }
+  ],
+  "testExecutions": 2049,
+  "benchmarkSamples": 378,
+  "independentReview": "PASS; no tests rerun",
+  "scope": "buffered generic WebSocket transport; no general RPC latency claim"
+}

@@ -1,0 +1,15 @@
+{
+  "baseline.mjs": "8981ce64817654b85cf9b9e2ac62c326cad6685f9d5ff28516aeecd60d95f391",
+  "candidate.mjs": "c5ef8b0b980c5cab68047282f8124e7850dd8c74b900d922b947fa8acccce13e",
+  "benchmark.mts": "eaa6550d1e90777855aee644468372acf7228a71b9e2963b122144deae9173fe",
+  "summary.json": "6172ccd92d78e4689b9a72b283cd75a5be30128c239717ea4db387efbc3943f0",
+  "final-discovery-node.jsonl": "3709c741c5a77fe974ad6cfb8b4a502b9d05191ab8665490611890d34d52fd91",
+  "final-discovery-bun.jsonl": "3c84905653761662f3645d1df2bff6680b2f436b70eb6789328688ef645c46f9",
+  "final-confirmation-node.jsonl": "6c7741a4d897e8980be57aa8d6c50695c110a309ad9bd74f846da152e810398a",
+  "final-confirmation-bun.jsonl": "2cd94fa882cc828c21a5cd6b07c2d31c1a4f354b17de7af311670f4fbf1a83a6",
+  "ci-node24.jsonl": "d591ced54be3adbacd94bc11c966490cc69db4b114372f11f726bf897f55e5f1",
+  "benchmark.mjs": "0e303835f464d33301d617d322a3a554f40b9cc5523f03614bbc16b982aed7b8",
+  "checks.json": "96462d7f9a6b67417c7665b6842c7ab7021c918462aa609f71edab594a2871ad",
+  "README.md": "d008ad46b2f4da9bc8d418fc04343a035697a43213fa4a67eab486ae00aa2a98",
+  "benchmark.svg": "3511f53d6e52954d574f6a5980daa1d1e82ed236cbb6d1bd74999a977fe46226"
+}
